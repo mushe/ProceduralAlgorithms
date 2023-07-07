@@ -10,6 +10,12 @@ distribute objects uniformly and randomly
 
 ![image](https://github.com/mushe/ProceduralAlgorithms/assets/26865534/5276bd88-8477-495d-9798-8ec2bd79d540)
 
+
+## Catmull-Rom Spline
+simple spline interpolation
+
+![image](https://github.com/mushe/ProceduralAlgorithms/assets/26865534/e03def4d-6f71-4512-b6c0-f3248460d1ac)
+
 ----
 
 to be continued ...
