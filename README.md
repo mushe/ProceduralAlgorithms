@@ -8,8 +8,7 @@ VFX side : https://github.com/mushe/UnrealVFXCollection
 ## Poisson Disk Sampling
 distribute objects uniformly and randomly
 
-![image](https://github.com/mushe/ProceduralAlgorithms/assets/26865534/da7dad3c-3807-4551-a82d-1ab507287876)
-
+![image](https://github.com/mushe/ProceduralAlgorithms/assets/26865534/5276bd88-8477-495d-9798-8ec2bd79d540)
 
 ----
 
